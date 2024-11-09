@@ -3,8 +3,8 @@ uvicorn==0.20.0
 SQLAlchemy==1.4.45
 pydantic[email]
 envparse==0.2.0
-psycopg2-binary==2.9.5
-asyncpg==0.27.0
+psycopg2-binary==2.9.10
+asyncpg==0.30.0
 alembic==1.9.0
 pytest==7.2.0
 pytest-asyncio==0.20.3
@@ -14,4 +14,4 @@ python-jose==3.3.0
 passlib==1.7.4
 python-multipart==0.0.5
 bcrypt==4.0.1
-greenlet==2.0.2
+greenlet==3.1.1
